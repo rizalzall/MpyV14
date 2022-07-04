@@ -9,8 +9,8 @@ global.owner = [
 global.ownername = [['Zall']]
 global.namabot = [['𝙕𝙖𝙡𝙡𝙭𝘽𝙤𝙩𝙯']]
 global.ownerinsta = [['@gmpyyy']]
-global.mods = [6281333154367] 
-global.prems = [6281333154367] 
+global.mods = [] 
+global.prems = [] 
 
 global.APIs = { // API Prefix
   // name: 'https://website'
