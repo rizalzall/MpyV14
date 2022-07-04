@@ -3,14 +3,14 @@ let chalk = require('chalk')
 global.owner = [
   ['6281333154367'],
   ['6281333154367'],
-  ['6281333154367', 'gempy', true]  
+  ['6281333154367', 'zall', true]  
   
 ] 
 global.ownername = [['Zall']]
 global.namabot = [['𝙕𝙖𝙡𝙡𝙭𝘽𝙤𝙩𝙯']]
 global.ownerinsta = [['@gmpyyy']]
-global.mods = [] 
-global.prems = [] 
+global.mods = ['6281333154367'] 
+global.prems = ['6281333154367'] 
 
 global.APIs = { // API Prefix
   // name: 'https://website'
