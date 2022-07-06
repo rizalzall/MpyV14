@@ -149,5 +149,13 @@ let hiaine = hiain[Math.floor(Math.random() * hiain.length)]
 
 }
 
+
+// salam
+    let reg = /(ass?alam|اَلسَّلاَمُ عَلَيْكُمْ|السلام عليکم)/i
+    let isSalam = reg.exec(m.text)
+    if (isSalam && !m.fromMe) {
+        m.reply(`وَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ\n_wa\'alaikumussalam wr.wb._`)
+    }
+
 handler.limit = true
 module.exports = handler
