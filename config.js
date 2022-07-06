@@ -3,12 +3,12 @@ let chalk = require('chalk')
 global.owner = [
   ['6281333154367'],
   ['6281333154367'],
-  ['6281333154367', 'zall', true]  
+  ['6281333154367', 'Zall', true]  
   
 ] 
 global.ownername = [['Zall']]
 global.namabot = [['𝙕𝙖𝙡𝙡𝙭𝘽𝙤𝙩𝙯']]
-global.ownerinsta = [['@gmpyyy']]
+global.ownerinsta = [['@zallzall02']]
 global.mods = ['6281333154367'] 
 global.prems = ['6281333154367'] 
 
